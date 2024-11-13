@@ -1,0 +1,23 @@
+/* .Footer_outercontainer{
+    padding-top: 1000px;
+} */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: black;
+  color: white;
+}
+.Footer_icon a .icon {
+  font-size: 20px;
+  margin-right: 10px;
+  color: white;
+}
+.Footer_zero ul li {
+  list-style: none;
+}
